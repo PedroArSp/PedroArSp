@@ -14,11 +14,16 @@ Aqui estão alguns dos meus projetos no GitHub:
 - [GIST 1 Comparação CI AI em Python](https://gist.github.com/PedroArSp/467ac0a8207c3b7919d61596f745241d)
 - [GIST 2 Formatação de CNPJ](https://gist.github.com/PedroArSp/3d80e205db2d266ee93ea383cfaf8601)
 
+## Atualmente trabalhando com..
+- Integração B2B e logística para Farmacias
+- Consultoria para sistema de cobranças de estacionamento e pedágio
+- Sistemas de controle de acesso
+- Sistemas de identificação veícular por imagem e RF
 
 Fique à vontade para conferir e explorar o código!
 
 ## Contato
-Você pode entrar em contato comigo através do meu perfil do GitHub ou pelo meu email: seuemail@example.com
+Você pode entrar em contato comigo através do meu perfil do GitHub ou pelo meu email: pedro.riva@gmail.com
 
 
 
