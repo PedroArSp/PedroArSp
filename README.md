@@ -2,11 +2,11 @@
 
 ## Sobre mim
 Olá! Sou Pedro Riva, um programador com experiência em desenvolvimento backend. Tenho habilidades em Python, C, C# e C++.
-- [Modulo de criptografia TwistCript] (https://github.com/PedroArSp/TwistCrypt)
+- [Modulo de criptografia TwistCript](https://github.com/PedroArSp/TwistCrypt)
 
 ## Ciência de Dados
 Tenho um degree em ciência de dados e sou apaixonado por explorar e analisar dados para obter insights valiosos.
-- [Projeto Sobre COVID em Jupyter] (https://github.com/PedroArSp/ML_Project1)
+- [Projeto Sobre COVID em Jupyter](https://github.com/PedroArSp/ML_Project1)
 
 ## Projetos
 Aqui estão alguns dos meus projetos no GitHub:
